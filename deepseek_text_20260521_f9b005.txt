@@ -1,0 +1,18 @@
+ShaaleVikas/
+├── app/
+│   ├── src/main/java/com/shaalevikas/
+│   │   ├── MainActivity.kt
+│   │   ├── NeedsDashboardActivity.kt
+│   │   ├── AddNeedActivity.kt
+│   │   ├── PledgeActivity.kt
+│   │   ├── DonorHallOfFameActivity.kt
+│   │   ├── models/
+│   │   │   ├── SchoolNeed.kt
+│   │   │   └── Donor.kt
+│   │   └── adapters/
+│   │       └── NeedAdapter.kt
+│   ├── res/
+│   │   ├── layout/
+│   │   ├── drawable/
+│   │   └── values/
+│   └── build.gradle
